@@ -1,2 +1,3 @@
 # Todolist-backend
-TODO List
+
+API para gerenciar tarefas (CRUD) backend 
