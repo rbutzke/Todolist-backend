@@ -41,3 +41,8 @@ $ ./mvnw clean package
 ```bash
 $ java -jar target/todolist-0.0.1-SNAPSHOT.jar
 ```
+
+---
+ O acesso a API poderá ser feito em localhost:7001   
+
+A DocumentaçãoO Swagger poderá ser acessada em localhost:7001/swagger-ui.html
