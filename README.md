@@ -31,3 +31,13 @@ API para gerenciar tarefas (CRUD) backend
 git clone https://github.com/rbutzke/Todolist-backend.git
 ```
 
+### 1.1 Construir o projeto:
+
+```bash
+$ ./mvnw clean package
+```
+
+### 1.2 Executar a aplicação:
+```bash
+$ java -jar target/todolist-0.0.1-SNAPSHOT.jar
+```
